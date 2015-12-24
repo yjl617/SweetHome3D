@@ -7,3 +7,5 @@ sourceforge.net源码地址：http://sourceforge.net/projects/sweethome3d/
 
 
 正在看源码，都是英文版的，下次再wiki在发几篇，读后感，初学java，先恶补下java知识吧……
+
+需要交流的的话，请加我qq:1292210348
